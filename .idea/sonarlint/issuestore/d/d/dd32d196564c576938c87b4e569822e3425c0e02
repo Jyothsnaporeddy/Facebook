@@ -1,0 +1,11 @@
+
+`
+java:S1128"ERemove this unused import 'Action.FacebookLogin.facebookLoginAction'.(²¯ïŠûÿÿÿÿ
+g	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ê®¿âùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø¸á
+`
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ
+œ
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶ç¸±ùÿÿÿÿ
+K
+java:S1444".Make this "public static username" field final(µ‚Ø8£üÄéÊ.
