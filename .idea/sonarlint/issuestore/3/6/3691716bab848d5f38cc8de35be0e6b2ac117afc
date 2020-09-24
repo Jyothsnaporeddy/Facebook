@@ -1,0 +1,8 @@
+
+g
+java:S1128"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8‘¼ìéÊ.
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Òá¾ùÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¶âùúÿÿÿÿ
+m
+java:S1104
+"RMake driver a static final constant or non-public and provide accessors if needed.(ÔèË©úÿÿÿÿ
